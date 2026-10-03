@@ -1,0 +1,190 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          5.650000000000006,
+          4.799999999999997
+        ],
+        [
+          4.650000000000006,
+          6.599999999999994
+        ],
+        [
+          4.150000000000006,
+          7.899999999999999
+        ],
+        [
+          3.6500000000000057,
+          10.0
+        ],
+        [
+          3.6500000000000057,
+          11.399999999999999
+        ],
+        [
+          4.650000000000006,
+          12.5
+        ],
+        [
+          6.25,
+          13.0
+        ],
+        [
+          8.049999999999997,
+          13.199999999999996
+        ],
+        [
+          9.549999999999997,
+          13.399999999999999
+        ],
+        [
+          11.25,
+          13.599999999999994
+        ],
+        [
+          13.950000000000003,
+          13.699999999999996
+        ],
+        [
+          15.549999999999997,
+          13.699999999999996
+        ],
+        [
+          16.150000000000006,
+          12.699999999999996
+        ],
+        [
+          16.450000000000003,
+          11.899999999999999
+        ],
+        [
+          17.75,
+          10.599999999999994
+        ],
+        [
+          18.450000000000003,
+          8.099999999999994
+        ],
+        [
+          18.849999999999994,
+          6.099999999999994
+        ],
+        [
+          18.75,
+          4.099999999999994
+        ],
+        [
+          17.650000000000006,
+          3.0999999999999943
+        ],
+        [
+          16.25,
+          2.8999999999999986
+        ],
+        [
+          14.75,
+          2.3999999999999986
+        ],
+        [
+          13.049999999999997,
+          2.3999999999999986
+        ],
+        [
+          11.049999999999997,
+          1.8999999999999986
+        ],
+        [
+          9.75,
+          1.8999999999999986
+        ],
+        [
+          8.450000000000003,
+          2.0
+        ],
+        [
+          7.650000000000006,
+          2.299999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          7.950000000000003,
+          8.599999999999994
+        ],
+        [
+          7.25,
+          10.0
+        ],
+        [
+          7.150000000000006,
+          11.199999999999996
+        ],
+        [
+          7.75,
+          12.5
+        ],
+        [
+          9.049999999999997,
+          13.199999999999996
+        ],
+        [
+          10.849999999999994,
+          13.299999999999997
+        ],
+        [
+          12.349999999999994,
+          13.299999999999997
+        ],
+        [
+          13.25,
+          12.699999999999996
+        ],
+        [
+          13.549999999999997,
+          11.599999999999994
+        ],
+        [
+          13.25,
+          10.299999999999997
+        ],
+        [
+          12.349999999999994,
+          9.099999999999994
+        ],
+        [
+          11.450000000000003,
+          8.399999999999999
+        ],
+        [
+          9.950000000000003,
+          8.199999999999996
+        ],
+        [
+          9.349999999999994,
+          8.199999999999996
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x1100_y1200_z0_1.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABcAAAASCAIAAAA/hdJEAAADN0lEQVR4nCVU225kNRDsm318zkySTYK0gBAS4oUHXveRn0baj0FaQAKxYWeSmczl3Gx3N3KwLD9Ypa6yq6vx148fIzEzkZAwIjhY1XyZyjwvyzyveSnTWua1umkxWxc1BwnSd4kpkCBjJwCGgAhABu4AXKpfx+Xl5Xgex2mZvToUQAVgQDWrZmCg6DWYg4pFFhJyRzR0cHWDq06n02n/9On8tM/jtWjVioDRY3SOiJGgsYcAmDOHyITtQsxczamRedHTfrd/+vPl78805w45drSq5nxZr1ibVCFJMW083TJpYHAAAEJRdwIDU4Q8T8/Pfx33TzzR99/9dH//4B1c9ufj4cvu8HytpZqZrqs7oIQoHtzNzJ3FLdeCFUrF8/nptPuyXutX9x8ef/n58Yf3BQ7h02f846b+3uF4WdbSSpVC64T9Fl0RFE1RvD0dAJbRLrvn5aTWPcYfv8E0VL0sUEpiuu/S19u0q+7MVhWAqJnKbRGxo6gaVHVY5vH6eqjTiPJOJRwP/57Gy7lc7UowVghMsePO0InUKcYQu9BOZhGSXDJ68TpOz6fX07RkkvG4++16ONl6XM6LA1C3kX4LrhCrgqFS7IbYdzF1IXKMfZRcikHWNY/nZV6LAhWfL/9My6UuS1mzqxJdOD32G2EAqxZBAqe0iSFJiCGEjqXU7FrXta6r6v+eE07JpqOtCiVAa6Os5ST8gASgKnFIqe9TN3QcokgQlmzIRurB+IaTSan+Os9nLepmBAIkzc5clulVhQNuun6bbobYBwkcYoyRg1QHcCLqNg83D9nPl3VZ9JrB3ZFJzLOZIbrhVKjjtL0Zhps+JXnzh8DbFldXQvDQDbfvvh3CUpcpr9dsuUDJVCuTa7M2hk0/3N3dvb/bDqkTRiIn9xYsF3Q0B0IUjLcp3PZuj65m2bxWLYuuLX8UYhxS2PRhiBIIArX4KgIgMpC0Ai0MiET0lm4kdKDU9Bo1LreGFSIS9ODwlhgCdnADQHAVaR/f5BEjkiM7IWJlQGJ05mJuBoJI0EicAFrjA4B5G0boXqukGJocJDRAeoM6EhM5QgMRoZEjchPZBpAriCO1OL+NNK/F/gM4AjGIUOneXAAAAABJRU5ErkJggg==",
+  "imageHeight": 18,
+  "imageWidth": 23
+}

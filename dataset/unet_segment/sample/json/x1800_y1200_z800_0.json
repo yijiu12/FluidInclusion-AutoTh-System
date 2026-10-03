@@ -1,0 +1,154 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          7.2500000000000036,
+          7.900000000000002
+        ],
+        [
+          6.449999999999999,
+          9.900000000000002
+        ],
+        [
+          5.650000000000002,
+          11.600000000000001
+        ],
+        [
+          5.449999999999999,
+          12.7
+        ],
+        [
+          4.350000000000005,
+          14.599999999999998
+        ],
+        [
+          3.9499999999999993,
+          16.500000000000004
+        ],
+        [
+          4.050000000000001,
+          18.3
+        ],
+        [
+          5.449999999999999,
+          19.400000000000002
+        ],
+        [
+          6.650000000000002,
+          19.900000000000002
+        ],
+        [
+          8.850000000000005,
+          20.000000000000004
+        ],
+        [
+          10.750000000000004,
+          20.000000000000004
+        ],
+        [
+          12.45,
+          20.099999999999998
+        ],
+        [
+          13.850000000000005,
+          20.599999999999998
+        ],
+        [
+          14.750000000000004,
+          19.500000000000004
+        ],
+        [
+          15.45,
+          17.7
+        ],
+        [
+          16.45,
+          16.000000000000004
+        ],
+        [
+          18.250000000000004,
+          13.5
+        ],
+        [
+          19.350000000000005,
+          11.600000000000001
+        ],
+        [
+          19.55,
+          9.600000000000001
+        ],
+        [
+          19.55,
+          7.800000000000001
+        ],
+        [
+          19.45,
+          6.199999999999999
+        ],
+        [
+          18.750000000000004,
+          5.0
+        ],
+        [
+          16.95,
+          3.900000000000002
+        ],
+        [
+          15.750000000000004,
+          3.6999999999999993
+        ],
+        [
+          12.95,
+          3.6999999999999993
+        ],
+        [
+          11.55,
+          3.6999999999999993
+        ],
+        [
+          9.650000000000002,
+          3.900000000000002
+        ],
+        [
+          8.55,
+          5.0
+        ],
+        [
+          7.650000000000002,
+          6.100000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          11.850000000000005,
+          13.900000000000002
+        ],
+        [
+          14.350000000000005,
+          13.900000000000002
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x1800_y1200_z800_0.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABUAAAAYCAIAAACa6yEfAAADeUlEQVR4nC1UyY4bNxCtjWS3WjNxfEgGyCH3/JiR3w6CAIk1nrFavXCrCopjCRCEbtSrR74Fv/z5hcEkMBGpgpoCIgMSICIYEDIxEyGCqgEYogGbmY53Mp5ab2jojxQMEBQcQhCA1JQMCIDA34PRQPZhA0Ax0D7QDNGRzJcCopE2xmaoSmAkhGSGPg1EyAgASKbSagPfyURACGgE4HhZ+/Ft3x655N4NA5NMHJYUpzSllFJkZEaU3hXMAEDZUQdKL72ut3z7+v089tabKpJ/meMU52m5zj+/LNOcErN0VQAE62BgCMRo0O6vx/vr+33bq1bzQXC6gNyKnjuUwO2TvVxxmeRj2kCtA4A1sHNf/3t9rPc998YE8zUun1IHxqYuCVjP/X1/0E0JUXzWL8NcB9TW9XHfj3UrrYEaSfr18/Mfvy/3xsfWcqmPs9xz23LeDuI8i6kOAmrq8ufa1reSS+3mxAPNT0+/vfwyy1d7gyPX97qeZcu9Ummh1Ca9KYALP9xRz21f97NoVSViisRhmXvjtp/Heb6+be/3LefufiJT7WJOYCx3Cq3c99LqB5iaFe1v/x5/Vbivx7f1vj62s2RVY0EJJGyiqt3pq3bNpZ17blqHOwFUS9nf/vkbb5i1bfXYc26qZCgkHIWZfb/bpWmz8tjO7SjWPQRAZtBrz2v+fmasvbdeG7hcgTFeJKQkFKl37V3VIUrZc/X7UENzT6EFtMtne762QMXMeSEAM8VJIktk8vnBXVvJZdAD365IOjwXDRd9DmrD/oaCFKeQ5ijCwiRqnp/etZytVZdtOA2RiD0l7bw9jtpqr+rZoziH+XmZ5ygs6Pnzj3brrfshPnwKRBzcymZay1mbG5QQYuDLEi7XFJ07g/tv+HeI5cPkySUKRIyg2Lv1IRC6+ylOaX5K0xyEyQsHScCLA9n/+nHYqpGRKZ5Y3RY+ih5KihIvz5d0vcaQhIKPkPeHx84bIkq6RNitONuh6ogGoncDs8QYp8WjH3iEn7xSxOtlIISYLj+RJI65WR6SdHV2SG6UEC9PaVlicpo/Pgjg+8ddA9sUJF6mMErQT96aXw0yBjdamOZ0CSl4G3iN+fURCTvDH4oBsQ3fIWAIpATCGALEKH4C8N+PXvbKA2AgQXRLumLefuilCMAO4TUphJEhSvRiGtBO2nUlr3jC/wHRsYtMOYKHJAAAAABJRU5ErkJggg==",
+  "imageHeight": 24,
+  "imageWidth": 21
+}

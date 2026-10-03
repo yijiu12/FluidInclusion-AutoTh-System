@@ -1,0 +1,138 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          2.450000000000003,
+          4.399999999999999
+        ],
+        [
+          1.75,
+          5.399999999999999
+        ],
+        [
+          1.25,
+          6.699999999999996
+        ],
+        [
+          1.9500000000000028,
+          8.899999999999999
+        ],
+        [
+          3.450000000000003,
+          9.399999999999999
+        ],
+        [
+          5.349999999999994,
+          9.599999999999994
+        ],
+        [
+          7.349999999999994,
+          9.699999999999996
+        ],
+        [
+          9.25,
+          9.699999999999996
+        ],
+        [
+          11.75,
+          8.899999999999999
+        ],
+        [
+          12.450000000000003,
+          7.799999999999997
+        ],
+        [
+          12.75,
+          5.399999999999999
+        ],
+        [
+          11.75,
+          4.5
+        ],
+        [
+          8.549999999999997,
+          3.8999999999999986
+        ],
+        [
+          7.150000000000006,
+          3.6999999999999957
+        ],
+        [
+          5.650000000000006,
+          3.3999999999999986
+        ],
+        [
+          3.75,
+          3.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          3.6500000000000057,
+          5.599999999999994
+        ],
+        [
+          3.3499999999999943,
+          7.099999999999994
+        ],
+        [
+          3.75,
+          8.0
+        ],
+        [
+          4.75,
+          8.5
+        ],
+        [
+          6.25,
+          8.699999999999996
+        ],
+        [
+          7.450000000000003,
+          8.0
+        ],
+        [
+          7.75,
+          7.399999999999999
+        ],
+        [
+          7.849999999999994,
+          5.899999999999999
+        ],
+        [
+          7.049999999999997,
+          4.899999999999999
+        ],
+        [
+          5.849999999999994,
+          4.599999999999994
+        ],
+        [
+          4.549999999999997,
+          4.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x1100_y600_z1600_2.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAA4AAAALCAIAAADA5ys1AAABaUlEQVR4nBWLbW7aQBQA3ycLtrFjIIpoUyUH6FGrSj1bD9AKBbXULUmwAXvtfa9i/ow00uCXb18ZgcwRUERZhZkRmW4gIjI6pJQ8CRIBgKPfTAjoBgZm4ADISLcE4G4gDA7oLjaCTzCBI4E4sThrAjVzQLydLkw2ed9ehuPL8Oc1AXnIdLmZV4WWS13OZ4iCI4K5ANp0eT18b/Y/muY0EvhMNF/k9V1ervNiu9HHItNQGorZ0L40P3e/fneXATQEvlr7FvFsNH+b+D2GXb59XhfbhfTjpfl7TmMv6hi5KolGNghPtQZNXXc69yn2S4dA49S27zBlc9AANMT3IXWVrO+HUF+uch0ISCTPeDYTgoBr4n3iKQ4pHiOF0Fb/YHdUGyNn9aeHu/LDQlhlVZWfn+uD2qE570/xfE0GHmPPOoWFlA/F41OxYjZHCXpfbzNefVx0XXE69V0/9SMakqjM83yzqbJMhhiB/wPdSrrvIeZQjAAAAABJRU5ErkJggg==",
+  "imageHeight": 11,
+  "imageWidth": 14
+}

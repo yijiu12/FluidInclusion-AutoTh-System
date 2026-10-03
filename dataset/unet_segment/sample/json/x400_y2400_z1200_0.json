@@ -1,0 +1,126 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          4.849999999999998,
+          8.849999999999998
+        ],
+        [
+          3.6499999999999986,
+          11.55
+        ],
+        [
+          3.1499999999999986,
+          14.75
+        ],
+        [
+          4.25,
+          16.95
+        ],
+        [
+          6.75,
+          18.749999999999996
+        ],
+        [
+          10.149999999999999,
+          19.05
+        ],
+        [
+          13.25,
+          19.249999999999996
+        ],
+        [
+          16.45,
+          19.650000000000002
+        ],
+        [
+          19.849999999999998,
+          19.749999999999996
+        ],
+        [
+          22.249999999999996,
+          20.349999999999998
+        ],
+        [
+          24.05,
+          18.849999999999998
+        ],
+        [
+          24.95,
+          16.249999999999996
+        ],
+        [
+          24.95,
+          14.349999999999998
+        ],
+        [
+          26.150000000000002,
+          10.849999999999998
+        ],
+        [
+          27.349999999999998,
+          7.75
+        ],
+        [
+          27.5,
+          5.875
+        ],
+        [
+          25.249999999999996,
+          3.849999999999998
+        ],
+        [
+          22.55,
+          3.0500000000000007
+        ],
+        [
+          19.650000000000002,
+          2.75
+        ],
+        [
+          14.149999999999999,
+          2.25
+        ],
+        [
+          9.55,
+          2.1499999999999986
+        ],
+        [
+          7.349999999999998,
+          3.4499999999999993
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          15.049999999999997,
+          13.050000000000008
+        ],
+        [
+          18.55000000000001,
+          14.899999999999995
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x400_y2400_z1200_0.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAAB8AAAAYCAIAAACNybHWAAAFPElEQVR4nE1VW6/cSBGuW7c9Mzk52WSTsIBA2jf+Ky9I/DceEIgHtJts9uScudnu7rqgckBixjOyPZ7qru9W+Ne//NnzZWYOke8AAIgIG+AjoucVeN5GiiAwjABDBCEiAkL89j8gJBZGIIBwQACUCI8wcw93oKAwhT5s28bLel5vT3q5RCgAIlSuE9Wj1HniaZKSBzOxEwUQIAiie+4tKwMGCrhH+L6Yg6vBZrZc7ueff/r68u/bch1bD8/NUDgSMlLlepTjPL2aj9/Nr17V01FOcykiEtklQK5EiIGRd/5X2jza0Ofby8vT56ef/7nd2mhuCv9dfW/S3Qnuwi9cqMx1Ok2Hw6vj6c3j9O50eHN6eI0zQkXEgEASwIQ4dLhu6tdl+/rLp/NP/7p/WYdH7LglKsAA5I5uXT1aD9qCrqs8rYUuVT6dp3p8fHj92x/fvv/96WEqyLmCeGJuZmremi338+3r5+WyjCQ5ud1RRGACInKGAd5bYghBgOY4IhpEh7FeLh3/IcP5wx/5+yMLwv9Vj9G0XZ/a5dLXEYbOFEwMyMTEDCJB5DrZQmDqbpRNpW6Q0Um6x/3WrvKpTG/q48RSSHaxhENzWNt2e/6y3RNucIIiUmotUohFmMpE8xzOvq6jLW4DEzNGQqDwGGDdzNb7tt3Otr7DuZAkzRGII2zbXtbzdbSUJ4ARAE+n6btaA7LLwvIw0/wK8L31bu3u2whMYrQv42puu0AoDDTMwQBTooQeqKptO7d7z6Y9zcCuBf0oIrCyq5jV0Urt5fQB3ry3cegvz4u2tvWxrkN72OBASKFglgg3SWPhCNy2W1ue+mqqnr2Ag2n021h7cJg22yyutzg+0/cb/uF3Mc229Lbdl9t9e1p8DHblMheaClXAMDAWT3tp+Lhe+3V1C49dq+kK97bpuUdFBoaBQyFMMX7Fyjo9tq1v5227tmED3RmRpdQylzKhYKIkABrQvbflOlIquw4xfC8P7t4daZKHD/Xj5Jdn3a7tuumvzzr1btCWbk3BgiCYsJQ61XkqU2HKNJLdhaZq2+ItxZMZgUAktZaZeGJNI739wf8k/e8xPp3xRceXixV3ht66q0IaOISl1kOtB6kl/REIYmnINGMKK488JZJp5tOR0bBr6NDPf+vj9fb8otfua7du2bVIDA2zVAVDmoInrpUqhCTAIXvmlKx2qLOwjHQ+s5QDEo3QpqpDbWx2f7LuMdwHkGkKTg0DwC3bJSGuwgWFEyYzD0JBroSVp9ObD215auexDXDigNY2D+2xpY8tIO4ZgAEOuausAHsyEwQJoTDJLMLAoWHYmjOTIElEZT4+vO5vf7NdepyX0dS2cMhEDMjkTa4hozsS0aRlR/PbJ4NZoO6BgU6uMWA4u5FAgjMxHuajPf7gHw3LL8v11teujmDkhkgZpDmBABKKnFKZbHmGWTyrcxGuIGQwuoE7V6e0eP4IMAvh63elzIeHj+vlablcWlt6a6Op7kmUM2Qfge7fsjOvCZCRp0z6SWoN9mHq3YIEPNljNOeIkg96qfP0WNrhYX1c121pbWnLfYyRDtaMiH1I5jjbF0mfM6bMZZqogqGheQQnbgGRuKe8kVyFwCQEoRac53rqD731fmqjNe19aFcbOdxV89vzSOeBFy4k5BRoQ4OcMgIRAsWSdMkGcgDlTsAIk2sqwHMpPfogHTK6DM0mTIcO3efCnoW7r5N8N1BMMZEC454zKe8gAKc0EgYSZP5SDnpn8CAXDKBsd3/WE3r0yEqe2kySk5B9kd2iAZhJGP4f9BtNmJv/AWgAAAAASUVORK5CYII=",
+  "imageHeight": 24,
+  "imageWidth": 31
+}

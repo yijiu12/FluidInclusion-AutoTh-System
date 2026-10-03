@@ -1,0 +1,14 @@
+path: C:\Users\86135\Desktop\auto\yyfg\dataset_unet
+train:
+  images: train/images
+  masks: train/masks
+val:
+  images: val/images
+  masks: val/masks
+test:
+  images: test/images
+  masks: test/masks
+
+# 语义分割类别数（背景通常不计入，背景像素值默认为0）
+nc: 2
+names: ['liquid', 'gas']

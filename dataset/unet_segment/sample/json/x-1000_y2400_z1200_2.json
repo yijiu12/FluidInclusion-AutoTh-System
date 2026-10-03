@@ -1,0 +1,210 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          5.549999999999997,
+          16.3
+        ],
+        [
+          4.25,
+          18.2
+        ],
+        [
+          3.75,
+          20.400000000000002
+        ],
+        [
+          3.049999999999997,
+          22.3
+        ],
+        [
+          3.1500000000000057,
+          25.7
+        ],
+        [
+          4.650000000000006,
+          27.500000000000004
+        ],
+        [
+          6.349999999999994,
+          28.599999999999998
+        ],
+        [
+          7.950000000000003,
+          29.000000000000004
+        ],
+        [
+          10.150000000000006,
+          30.099999999999998
+        ],
+        [
+          12.950000000000003,
+          30.500000000000004
+        ],
+        [
+          16.349999999999994,
+          29.8
+        ],
+        [
+          19.049999999999997,
+          28.8
+        ],
+        [
+          22.549999999999997,
+          26.8
+        ],
+        [
+          25.75,
+          24.8
+        ],
+        [
+          28.150000000000006,
+          22.2
+        ],
+        [
+          29.25,
+          19.599999999999998
+        ],
+        [
+          30.25,
+          15.000000000000004
+        ],
+        [
+          30.650000000000006,
+          10.7
+        ],
+        [
+          30.349999999999994,
+          7.599999999999998
+        ],
+        [
+          28.75,
+          6.400000000000002
+        ],
+        [
+          25.349999999999994,
+          5.699999999999999
+        ],
+        [
+          23.450000000000003,
+          5.699999999999999
+        ],
+        [
+          20.950000000000003,
+          5.599999999999998
+        ],
+        [
+          18.049999999999997,
+          5.5000000000000036
+        ],
+        [
+          15.75,
+          5.699999999999999
+        ],
+        [
+          12.650000000000006,
+          6.800000000000001
+        ],
+        [
+          9.75,
+          7.5000000000000036
+        ],
+        [
+          7.849999999999994,
+          9.599999999999998
+        ],
+        [
+          6.349999999999994,
+          12.500000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          9.349999999999994,
+          20.2
+        ],
+        [
+          9.450000000000003,
+          22.2
+        ],
+        [
+          9.950000000000003,
+          24.099999999999998
+        ],
+        [
+          11.25,
+          25.599999999999998
+        ],
+        [
+          12.75,
+          26.400000000000002
+        ],
+        [
+          14.650000000000006,
+          26.500000000000004
+        ],
+        [
+          16.25,
+          25.7
+        ],
+        [
+          17.450000000000003,
+          24.500000000000004
+        ],
+        [
+          17.849999999999994,
+          22.400000000000002
+        ],
+        [
+          17.950000000000003,
+          20.2
+        ],
+        [
+          17.049999999999997,
+          17.500000000000004
+        ],
+        [
+          15.549999999999997,
+          16.3
+        ],
+        [
+          14.25,
+          15.7
+        ],
+        [
+          11.75,
+          16.000000000000004
+        ],
+        [
+          10.349999999999994,
+          17.000000000000004
+        ],
+        [
+          9.650000000000006,
+          18.500000000000004
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x-1000_y2400_z1200_2.png",
+  "imageData": "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",
+  "imageHeight": 32,
+  "imageWidth": 33
+}

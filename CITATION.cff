@@ -1,0 +1,65 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite both the article and this repository as indicated below."
+title: "FluidInclusion AutoTh System: automated fluid inclusion homogenization temperature measurement powered by machine learning and GUI automation"
+abstract: >-
+  An open-source, CPU-only system for fully automatic homogenization temperature (Th)
+  measurement of fluid inclusions. It combines YOLO-based inclusion detection, U-Net++
+  gas-liquid semantic segmentation, GUI automation (PyAutoGUI) and inter-process
+  communication to drive a commercial Linkam MDSG600 heating stage without a native API,
+  and runtime algorithms for automated target re-localization, sharpness-confidence
+  auto-focus and stability-window homogenization detection.
+type: software
+version: "1.0.0"
+date-released: "2026-10-02"
+license: MIT
+repository-code: "https://github.com/yijiu12/FluidInclusion-AutoTh-System"
+keywords:
+  - fluid inclusions
+  - homogenization temperature
+  - microthermometry
+  - deep learning
+  - object detection
+  - semantic segmentation
+  - GUI automation
+  - geosciences
+authors:
+  - family-names: Li
+    given-names: Shijie
+    affiliation: >-
+      School of Earth Sciences and Engineering, State Key Laboratory of Critical Earth
+      Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China
+  - family-names: Li
+    given-names: Weiqiang
+    orcid: "https://orcid.org/0000-0003-2648-7630"
+    affiliation: >-
+      School of Earth Sciences and Engineering, State Key Laboratory of Critical Earth
+      Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China
+  - family-names: Wang
+    given-names: Guoguang
+    affiliation: >-
+      School of Earth Sciences and Engineering, State Key Laboratory of Critical Earth
+      Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China
+  - family-names: Shao
+    given-names: Rubing
+    affiliation: "School of Physics, Nanjing University, Nanjing 210023, China"
+contact:
+  - family-names: Li
+    given-names: Weiqiang
+    email: liweiqiang@nju.edu.cn
+    affiliation: >-
+      School of Earth Sciences and Engineering, State Key Laboratory of Critical Earth
+      Material Cycling and Mineral Deposits, Nanjing University, Nanjing 210023, China
+preferred-citation:
+  type: article
+  title: "Automated fluid inclusion homogenization temperature measurement powered by machine learning and GUI automation"
+  year: 2026
+  journal: Computers & Geosciences
+  authors:
+    - family-names: Li
+      given-names: Shijie
+    - family-names: Li
+      given-names: Weiqiang
+    - family-names: Wang
+      given-names: Guoguang
+    - family-names: Shao
+      given-names: Rubing

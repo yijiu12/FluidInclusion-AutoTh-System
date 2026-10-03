@@ -1,0 +1,4 @@
+# Store every file byte-exactly: no CRLF/LF normalisation and no encoding
+# conversion.  This keeps dataset labels, CSV results, JSON reports and model
+# weights identical to the files that were validated for the paper.
+* -text

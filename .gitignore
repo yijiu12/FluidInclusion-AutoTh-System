@@ -1,0 +1,48 @@
+# Python cache files (auto-generated)
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System temp files
+.DS_Store
+Thumbs.db
+
+# Temp and log files
+*.tmp
+*.log
+*.cache
+
+# C# build intermediate files
+csharp_ipc_builder/obj/
+*.pdb
+*.sdf
+*.suo
+
+# ---------------------------------------------------------------------------
+# NOT distributed with the source-code repository
+# ---------------------------------------------------------------------------
+
+# Training artefacts (logs, per-epoch checkpoints, duplicated weights).
+# The trained model weights actually used for the paper are kept in weights/.
+# Full training history is archived with the dataset on Zenodo.
+training_output/
+
+# Third-party vendor SDKs and manuals (DTStageDriver, Linkam IPC SDK).
+# These are redistributed by their manufacturers under their own terms and are
+# therefore not re-published here. Obtain them from the hardware vendors.
+docs/vendor_sdk/
+
+# Internal note-keeping file listing documentation placeholders
+缺失信息.csv

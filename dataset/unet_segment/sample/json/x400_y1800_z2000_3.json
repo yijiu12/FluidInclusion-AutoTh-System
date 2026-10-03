@@ -1,0 +1,162 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          4.950000000000003,
+          6.199999999999996
+        ],
+        [
+          4.549999999999997,
+          7.599999999999994
+        ],
+        [
+          3.75,
+          8.899999999999999
+        ],
+        [
+          3.450000000000003,
+          10.099999999999994
+        ],
+        [
+          3.25,
+          11.699999999999996
+        ],
+        [
+          3.450000000000003,
+          13.099999999999994
+        ],
+        [
+          4.150000000000006,
+          14.5
+        ],
+        [
+          5.75,
+          15.299999999999997
+        ],
+        [
+          7.650000000000006,
+          15.5
+        ],
+        [
+          9.950000000000003,
+          15.399999999999999
+        ],
+        [
+          11.349999999999994,
+          14.099999999999994
+        ],
+        [
+          13.349999999999994,
+          11.699999999999996
+        ],
+        [
+          14.450000000000003,
+          10.199999999999996
+        ],
+        [
+          15.349999999999994,
+          8.5
+        ],
+        [
+          15.349999999999994,
+          6.799999999999997
+        ],
+        [
+          15.25,
+          5.599999999999994
+        ],
+        [
+          14.349999999999994,
+          4.699999999999996
+        ],
+        [
+          12.150000000000006,
+          3.6999999999999957
+        ],
+        [
+          9.950000000000003,
+          3.799999999999997
+        ],
+        [
+          8.450000000000003,
+          4.0
+        ],
+        [
+          6.950000000000003,
+          4.5
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          8.549999999999997,
+          7.399999999999999
+        ],
+        [
+          8.450000000000003,
+          8.699999999999996
+        ],
+        [
+          9.25,
+          9.799999999999997
+        ],
+        [
+          10.75,
+          10.399999999999999
+        ],
+        [
+          11.950000000000003,
+          10.399999999999999
+        ],
+        [
+          12.950000000000003,
+          9.699999999999996
+        ],
+        [
+          13.450000000000003,
+          8.5
+        ],
+        [
+          13.349999999999994,
+          7.199999999999996
+        ],
+        [
+          12.650000000000006,
+          6.0
+        ],
+        [
+          11.650000000000006,
+          5.199999999999996
+        ],
+        [
+          10.349999999999994,
+          5.0
+        ],
+        [
+          9.049999999999997,
+          5.399999999999999
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x400_y1800_z2000_3.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABQAAAASCAIAAADUsmlHAAADFklEQVR4nCWTTW/jRgyGSQ6lkSVZ8ir+SJ3dBM62RdFT99p/W+yP6bEo2iKnNM0mqVPHcSJHsmxphizkHQxmLvx6ST74+ZfPgIiAAAIk/e9FpHMOREAQFAgVkZAMkSHDyIYJiAAZABGAQBQEVQEFyKsKsKICgRHsgx+tySARCIoqqXw1URBVBRBEJW1VW0+H1rvOq4hBDpnCAK3BEAnw6IDQH+6TqPQvCUKn+tbKtt69vr7smqbzjtBkwTCL0pM0zWJvbV84IfQyGECP14HuRbe+u1vfrp6uyuVDW+20E9RgEEZpmuWT788ml5NRXuRMoL0WPuYXgFapcvhUPjxc/7a6u22WpcpRLlHDQR3XdX3g6sDf/DC0Y7Z9F4URBbQTrVSeq2p59+fzly/1vyVtXWhDCphQqUPah1rJDq6raNbOcstWjCIbVFX1Wrv9y/p2fXXtHrZR5QNmHVqxH1XXnS87Y0DffJNBfdDWqZi+XYwIgq3Xqtm9lf80m2rgOY4HcaJbMlX3d7sX5x3SizgOisSGA2RVUPVeGdCpVt6XL6vq+VEamNjhfH4xvpzfPF7dPt3vqoP3ZMlZTfJ4mg0Ttgyooh4YwaNWbl8u7/erbQrpePph9OlT93PW/dpg92rWGCDkYfh++PF0clGcZDYJDHhQr6zSeW267X7zn9SaDU/s4qzL49eHTX335J9Do+3Q0CSfnS0ui/NZPI7YGADoS2fv9p0c9hXUYiHNpqdNkZf79eaPv7bLzaFpmc00zc5PF/PzRTZObcJkjJAX3yp3LbSSHSQU0yTFZqzglt3N4+73TSDdiaFiVFzMF9PFT/l51g+v9wVjSFAde9dLivPJ9IxWT/5m0946ONQDlREnxXg6+24xmy6GRRZaJkIA7FfqK0zsMQKMbJF+CJrk3Vt5/9K8dW4wGJ2MkvNs8j67OI3ygGMCRj1SCqIC6FU9CxqlMAiSyzT/dv7O/Tgu975pjETRKAriMAiJQum3ERQRjij2yIM6YRBFRIOBMWTIGkpGoSSJiECIZI64OhIWIo89i9Qj37OL9D+ZK9RLFK7EpAAAAABJRU5ErkJggg==",
+  "imageHeight": 18,
+  "imageWidth": 20
+}

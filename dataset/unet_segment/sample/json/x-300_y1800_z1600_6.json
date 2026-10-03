@@ -1,0 +1,226 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          4.049999999999997,
+          6.900000000000002
+        ],
+        [
+          3.549999999999997,
+          9.099999999999998
+        ],
+        [
+          2.950000000000003,
+          11.099999999999998
+        ],
+        [
+          2.1500000000000057,
+          14.599999999999998
+        ],
+        [
+          1.9500000000000028,
+          17.400000000000002
+        ],
+        [
+          1.9500000000000028,
+          18.400000000000002
+        ],
+        [
+          2.549999999999997,
+          20.000000000000004
+        ],
+        [
+          3.950000000000003,
+          21.500000000000004
+        ],
+        [
+          5.349999999999994,
+          22.8
+        ],
+        [
+          7.150000000000006,
+          22.599999999999998
+        ],
+        [
+          9.150000000000006,
+          22.8
+        ],
+        [
+          11.75,
+          23.8
+        ],
+        [
+          13.25,
+          24.500000000000004
+        ],
+        [
+          14.75,
+          24.500000000000004
+        ],
+        [
+          17.650000000000006,
+          24.2
+        ],
+        [
+          20.450000000000003,
+          23.000000000000004
+        ],
+        [
+          21.75,
+          21.400000000000002
+        ],
+        [
+          22.75,
+          19.000000000000004
+        ],
+        [
+          24.75,
+          16.7
+        ],
+        [
+          26.549999999999997,
+          14.3
+        ],
+        [
+          27.0,
+          13.25
+        ],
+        [
+          27.0,
+          9.2
+        ],
+        [
+          27.0,
+          7.5000000000000036
+        ],
+        [
+          25.349999999999994,
+          5.5000000000000036
+        ],
+        [
+          23.450000000000003,
+          4.699999999999999
+        ],
+        [
+          20.950000000000003,
+          4.0000000000000036
+        ],
+        [
+          20.049999999999997,
+          4.0000000000000036
+        ],
+        [
+          17.25,
+          3.6999999999999993
+        ],
+        [
+          13.950000000000003,
+          3.0000000000000036
+        ],
+        [
+          10.849999999999994,
+          2.6999999999999993
+        ],
+        [
+          9.049999999999997,
+          2.6999999999999993
+        ],
+        [
+          6.849999999999994,
+          3.5000000000000036
+        ],
+        [
+          5.650000000000006,
+          4.800000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          12.150000000000006,
+          17.500000000000004
+        ],
+        [
+          11.25,
+          18.500000000000004
+        ],
+        [
+          10.849999999999994,
+          19.599999999999998
+        ],
+        [
+          10.950000000000003,
+          21.400000000000002
+        ],
+        [
+          12.549999999999997,
+          23.000000000000004
+        ],
+        [
+          13.650000000000006,
+          23.400000000000002
+        ],
+        [
+          15.75,
+          23.599999999999998
+        ],
+        [
+          18.950000000000003,
+          23.3
+        ],
+        [
+          19.650000000000006,
+          22.400000000000002
+        ],
+        [
+          19.849999999999994,
+          20.7
+        ],
+        [
+          19.75,
+          18.400000000000002
+        ],
+        [
+          18.75,
+          17.2
+        ],
+        [
+          17.650000000000006,
+          16.7
+        ],
+        [
+          15.849999999999994,
+          16.2
+        ],
+        [
+          14.150000000000006,
+          16.099999999999998
+        ],
+        [
+          12.650000000000006,
+          16.599999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x-300_y1800_z1600_6.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABwAAAAbCAIAAADganh7AAAFR0lEQVR4nCVWa5Mjtw0EQPAxc7t7ZTtxJVXOL0+l8u9SvvNjb0/SzJB4pSBLHySRoyaAbjSI//nvvwmCIizCw8LFySC/u7vlW3PPPRTw+QoIIEAAMsACkCtAkCuBVACIwSWe/wpwB1NbsJa5LVumpu5q+XA4BAISEBAmFgGSU3EgRAQogFQofyMEu8pzWT0SZMplc65rXWuJmqq7BwAGoQMwAhXCUgoWIkSuhUopRFAROYMnCED2iAAPMFOZax3nYz3OeczrkiVm5lkJCEcKxIJYEiuRSmGqpVYutdXqpVhgzTMdORDMTWSJrOs47rfHcc9I5/LMHxQ0kR0JEhQICSkzTeDGicmz9dl6bb07j16Y3SNBVea8rvO6HvM611qW5fCw3PO/4kUMTToI/8q5GItZIWFac7Xe+nD/hNGAAZKlJWtec17nnHOpimfOyalzbmeoDhjP6gI6uGIhsOJKUJiIllxLlwWAeYK6q8hc15kxzhkqxZ2gNi7EFWqLZMzcPWWAxNgKEiFYuFrm6eiq4ObTg5Y6W1JkJibL1nJTCC/c2vg89lGZKKKok0mRWSIKdqxb5hC6TGaYQMzwU2WZ+DUFiNjMRV3VVVLnZgiFaq8vb+PtZfRWEXvEVvpLq58rMPixTEVF5ylzBk+D+5p4v8Nx6DxAxVlFRFOaeZRqREWudfSt1lfmjbgQsvmrxc8/17/98mbyjz9u8LitU24LPjy+HdPff3/YvczkEyOQn8mrakoyKSfKQnJ1yMqqooRhnn7V7+f2Zbztr//6YfiPLl4fyz6O6+tv+C6gE3xS9hkAexZ0JqKBGwW3mhQxeLVFixwcADTwfP/4HY/jerv99Pcf337a9hcqSpc4rOu4zXWpSeCzO1mfFKmIibh6VOpb3/vo0F1Jiwcs8uX2WPePP7C+3PZ/yvsv16f9jS97f3z9+vG/P9/fz+MwNcJRgJif2Zs+29wsCKm38vrWPmNDRVPJCGSqTJuOSEsehtdt9nEjOz5+/fXbl6+345BlGIUbl8LMKmqiLuYWAU9aGo69ve4dp6/7lHe9Huucl1gWfJpMnR8HUTH5fnv/dnx/+F0wmLPLWloBZzHNwCJbu5fakECIb7UtLkF6PuyUa57Xmm7pQWGBjujqdp46NZYX49aottq4dR7t6VJPp8KCpWLvVmBdN/+iZ/Owu9xlTluajmWnivpKElLZoVGcGDAzbrX1Vju30Run66f1eaADG/CcYvatfPxmDBqC64pL3NL4CID0svNIfzCgKIUq1dba1tvovaertNaZcjmh041d53dZ39OKU7npK0TBzLXtfXxG9uVf5+3Oy9Dx2Xl19H3btrHvfey9760OTjuspTFNDLfphwqYBxJEaPoTUNu21va38sMbgXr94Ad1ZXfi1kffx9i3sY1MO4PlXgq32rXtfVvr7k9bTtfJCfj8BAei3tADFVbEXWExE7YOwK29tPGpb/u+fdoyzJFFraVw7wMcfIFjx1POecVcsURUwxzCSRyONc2+BZnhuQr2them0frLGPsYL+NlH2O01mplrIRcWq0A3QBqa9vsV1vnmue8jgSOcIpiC85MA4EoqNatQ29tq/vLlqB72/fWK3NhLlAQsgOi0XhlHtLWaJespfOa7ZjrEluGFiWHsDszpXZazqHe+qe+v7TeuLe69cLlOWefNwN+jlooBa0X0zb2EE0XXGuJmEmoBDwvGkFYKqXhdO4tBdk7JctUemXMYZBXAwBkSNWnuVAE15JFsWrVbes5QRzNsj3cISLPfgqTKhFnS1IpyEQlUsIAOdcc4P86rV5MVV8nZQAAAABJRU5ErkJggg==",
+  "imageHeight": 27,
+  "imageWidth": 28
+}

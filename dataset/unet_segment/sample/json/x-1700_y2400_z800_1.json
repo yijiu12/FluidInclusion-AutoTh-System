@@ -1,0 +1,146 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          6.2499999999999964,
+          11.7
+        ],
+        [
+          7.7499999999999964,
+          13.400000000000002
+        ],
+        [
+          9.45,
+          14.2
+        ],
+        [
+          11.849999999999998,
+          14.999999999999996
+        ],
+        [
+          14.749999999999996,
+          15.499999999999996
+        ],
+        [
+          16.749999999999996,
+          15.499999999999996
+        ],
+        [
+          18.749999999999996,
+          14.400000000000002
+        ],
+        [
+          19.249999999999996,
+          13.099999999999998
+        ],
+        [
+          20.149999999999995,
+          12.2
+        ],
+        [
+          21.749999999999996,
+          11.7
+        ],
+        [
+          22.95,
+          11.400000000000002
+        ],
+        [
+          25.299999999999997,
+          9.802000000000001
+        ],
+        [
+          25.299999999999997,
+          8.0
+        ],
+        [
+          25.249999999999996,
+          6.399999999999999
+        ],
+        [
+          24.349999999999998,
+          5.300000000000001
+        ],
+        [
+          22.249999999999996,
+          4.599999999999998
+        ],
+        [
+          20.95,
+          4.199999999999999
+        ],
+        [
+          19.149999999999995,
+          3.8999999999999986
+        ],
+        [
+          17.149999999999995,
+          4.0
+        ],
+        [
+          15.649999999999995,
+          4.399999999999999
+        ],
+        [
+          14.249999999999996,
+          4.699999999999999
+        ],
+        [
+          12.149999999999995,
+          4.800000000000001
+        ],
+        [
+          9.249999999999996,
+          4.800000000000001
+        ],
+        [
+          7.849999999999998,
+          5.899999999999999
+        ],
+        [
+          6.7499999999999964,
+          8.099999999999998
+        ],
+        [
+          6.349999999999998,
+          9.3
+        ],
+        [
+          6.2499999999999964,
+          10.7
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          11.749999999999996,
+          9.8
+        ],
+        [
+          14.55,
+          11.099999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x-1700_y2400_z800_1.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABsAAAASCAIAAAAluTLKAAADqUlEQVR4nC1UyY4bNxR8C5dWt6SRxhrLMewslySXfJqRX87NjpeRR0sv5FsCyiF4IAiiUPVYVfj3hw8mamamJiJiDoQxx9XQD6tV13ernJiIkMAdAJAQiZCJmUIkIAJjqaY/QEQCABqgmpuqalVpiAhQQg0hsIZkfAdzcERuz4lLTB4jB2KHYNyBgwJYUTULxAzt8D9JFQNCR8eFOSIXTpncAoPeiaF4ma8v4BMSphAp9Tnvu5DZwVAELcSc1UUqKVC7KKpgWMVBjSbBF/NAiZgxodNJrh+Xjy/jba5qGDn1q3zY9O9e92nf02pLSCHH6BIlGIsKoqpVq6BQvejk/qniXW6bn6tOsixlKmLq4EQYQgpfT/zp3B3f7PbHMPRdiDmpWxCTWonRXKUUddeplLnWaanFHQGA2kZwdCO8L3eouNTZfIKpgAqvV29fhZiSoSepKiK1YAgywfJj1VoWKW4AwBTS027Yr9MmoicQdgFVBxNbxlLGf89LyM/Hwzowh+S6Ssmy1JooBES29utq1vzi1igmxseYj8N62A6MK5TgYlVUtYwXfLE6mdRpmk0DEwJTjlFyriIxTxwjYHBUYoxI1KbqCO6Xxbs55PUqEyMBWHVZdFGsEXExdkUP3hARgidbgSv4NJdxXvjGXBAYaE3McZxcbvZ9XOi52BYPHZAXoFvl6abLiMUyEHYpPabUB2yudwocIGb3bsjpmpnIzNUMJuDOtZ0d3LQamXc0V52v5XKa5lKkKrrnrtsO7x877gIBGzpRYMYYveu72CUmh5YotSI4mgCAMt3TAFIWm87ny+n7eDo3H6Q+7brj7tfj49MDewrQnIEM5OghcNflbuhTXiGM5lAVWtLdiSiSx77o8Pz5y/j5NF2+14Kbbtg9bJ/e/f54PAydJwcM0OhAs9y9AHJMu82wPD2+vGg9s+KIUL1lGTnYQkW/ynIrl5u65VdvDr/9fDwcnza7FIEREB1C+xhEw9YqjIkYt1vy99nC+vTPt8vpy3W+VpOmgWy6Fr9CLWaeH17/9MtfP7/d7Tc5hgZ3tz9gaDWFwGitrpqVMBsPT+lxG07vH749H798ncZzqbeidTYVU+WYHo7rd3+8+XO/b0WCd4g2PITmH0QD+hEwIiKgJtENu+Cx79YPh7eitci8yHVc5ipFIebd6/5hs085Yss7ACF5UwkA4Z4xwkYVqJmzNRkYgkFPnJmNE+TONqKHfXUQNUccCBNGblrv78nJ700M8B9/xGqGVMwxZAAAAABJRU5ErkJggg==",
+  "imageHeight": 18,
+  "imageWidth": 27
+}

@@ -1,0 +1,162 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          1.4500000000000064,
+          11.45
+        ],
+        [
+          2.5500000000000043,
+          12.95
+        ],
+        [
+          4.550000000000004,
+          14.150000000000002
+        ],
+        [
+          6.850000000000005,
+          14.650000000000002
+        ],
+        [
+          9.550000000000004,
+          14.650000000000002
+        ],
+        [
+          12.250000000000004,
+          14.650000000000002
+        ],
+        [
+          14.350000000000005,
+          14.150000000000002
+        ],
+        [
+          15.450000000000006,
+          13.349999999999998
+        ],
+        [
+          16.450000000000006,
+          10.149999999999999
+        ],
+        [
+          17.350000000000005,
+          9.05
+        ],
+        [
+          17.850000000000005,
+          7.550000000000001
+        ],
+        [
+          17.150000000000002,
+          6.75
+        ],
+        [
+          15.750000000000004,
+          5.550000000000001
+        ],
+        [
+          13.850000000000005,
+          4.649999999999999
+        ],
+        [
+          10.650000000000006,
+          4.75
+        ],
+        [
+          8.250000000000004,
+          4.75
+        ],
+        [
+          6.050000000000004,
+          5.050000000000001
+        ],
+        [
+          3.2500000000000036,
+          6.649999999999999
+        ],
+        [
+          2.6500000000000057,
+          7.550000000000001
+        ],
+        [
+          1.6500000000000057,
+          9.349999999999998
+        ],
+        [
+          1.4500000000000064,
+          10.349999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          8.150000000000006,
+          9.75
+        ],
+        [
+          8.650000000000006,
+          11.149999999999999
+        ],
+        [
+          9.450000000000006,
+          11.75
+        ],
+        [
+          10.250000000000004,
+          12.05
+        ],
+        [
+          11.650000000000006,
+          11.849999999999998
+        ],
+        [
+          12.450000000000006,
+          11.05
+        ],
+        [
+          12.650000000000002,
+          9.95
+        ],
+        [
+          12.550000000000008,
+          9.149999999999999
+        ],
+        [
+          12.150000000000002,
+          8.45
+        ],
+        [
+          11.350000000000005,
+          7.25
+        ],
+        [
+          10.050000000000004,
+          7.149999999999999
+        ],
+        [
+          9.550000000000004,
+          7.449999999999999
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x1100_y3000_z1200_4.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABMAAAASCAIAAAA2bnI+AAACxklEQVR4nCVT224cNwwlKWruu+N1jdoNjALtUx/zw+n/5AeSPhRGkQb2bm1vxnuZGY1EstAaAiECEg/JQx789OlPAzQ0MEExAFBQAQRABAEwUFM10fyUDYwAAI2B0MwQFPIlqiqaAez94MVVs/eg9+BsyBdPcyZT0aiyCMxRJeeR/AcBCYGMARwiEDgBNAUG0wu0JZOTzOfzIUxDOM8SkoqAc84zl2VRtuwLz+ypAGNQZVQ10CjjcX7Z/rV73r4dh2laFtFciCNkdmXhm97Xfdms62Z15YuGwXGmQafX44+nr4//PuzO4bSoSJJcLhggOiAH6Ad0hW/auv8l9tfrbtWymJzn1+2Xp6eHx/04RUiauUAFUlVTQKcEsCiC6LykGNViAAKeYNl9ffn28N/LOUSHTHXhKgRLUSQGBTEx9M51zhjiPA3TxC/su5nfhvH74+kQJmGqr9rrq2591VeH5XU3ncO4QEySyWhamjBNZ1gWkZhb4XH4MRxnLV3bNT//9uHD3V3f3MI/rza+cnGKH+Ppc8D5zUKQuEgQUI+eiJnjEGbTsqXNrf+1l3s+lkHfTvti3lfpzH/HsMQxLscok6hFqNuy6pqy8ozMBAQC40G+uePzdsJA8/6wfzuP05R2ScCUwBBFwZNbdXW1rjkPud+s/MsYj/NwCrtDZkQsLmlOEiUlA8zARGCMrmmq1XVXdZ3ngvvb9d0f99vv9XEYwnKKEpJIUlBEI39JhkTk0LV12d+s+9tN17beeW5ccf/7T92mOOzLw3N1Os7TmJYlikheZzBCc4RF7VerenW3Xq2b2hVMyB5h7Ut/Q+26Xt3dTHOcRgmnIHmgAiagSmRF5evGV7Wv2XsiMmUC8IQEXDFvOi+txA3ElETzAqYcnwVKiA6REBEwd0DA78JDQMdo6NCQlDyxZKp0gSQYzezS8EWPilnSgP8DA9PtMeMAHs4AAAAASUVORK5CYII=",
+  "imageHeight": 18,
+  "imageWidth": 19
+}

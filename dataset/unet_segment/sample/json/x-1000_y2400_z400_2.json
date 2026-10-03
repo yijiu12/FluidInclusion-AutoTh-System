@@ -1,0 +1,162 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          3.8500000000000014,
+          9.349999999999998
+        ],
+        [
+          2.950000000000003,
+          11.749999999999996
+        ],
+        [
+          2.8500000000000014,
+          13.749999999999996
+        ],
+        [
+          3.950000000000003,
+          15.249999999999996
+        ],
+        [
+          5.850000000000001,
+          16.149999999999995
+        ],
+        [
+          7.850000000000001,
+          16.149999999999995
+        ],
+        [
+          9.850000000000001,
+          16.249999999999996
+        ],
+        [
+          12.350000000000001,
+          17.249999999999996
+        ],
+        [
+          13.850000000000005,
+          16.849999999999998
+        ],
+        [
+          15.55,
+          14.749999999999996
+        ],
+        [
+          16.55,
+          13.249999999999996
+        ],
+        [
+          17.55,
+          11.549999999999997
+        ],
+        [
+          18.250000000000004,
+          10.349999999999998
+        ],
+        [
+          19.350000000000005,
+          7.849999999999998
+        ],
+        [
+          20.200000000000003,
+          5.96111111111111
+        ],
+        [
+          19.650000000000002,
+          5.349999999999998
+        ],
+        [
+          17.05,
+          4.549999999999997
+        ],
+        [
+          13.750000000000004,
+          4.349999999999998
+        ],
+        [
+          10.750000000000004,
+          3.7499999999999964
+        ],
+        [
+          8.55,
+          3.6499999999999986
+        ],
+        [
+          6.650000000000002,
+          4.2499999999999964
+        ],
+        [
+          5.150000000000002,
+          6.049999999999997
+        ],
+        [
+          4.350000000000001,
+          7.549999999999997
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          6.550000000000001,
+          11.150000000000002
+        ],
+        [
+          7.25,
+          9.650000000000002
+        ],
+        [
+          7.849999999999998,
+          9.05
+        ],
+        [
+          8.95,
+          8.75
+        ],
+        [
+          10.95,
+          9.95
+        ],
+        [
+          11.149999999999999,
+          11.350000000000001
+        ],
+        [
+          10.25,
+          12.650000000000002
+        ],
+        [
+          9.349999999999998,
+          13.25
+        ],
+        [
+          7.849999999999998,
+          13.25
+        ],
+        [
+          7.449999999999999,
+          12.75
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x-1000_y2400_z400_2.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABUAAAATCAIAAADwLNHcAAACy0lEQVR4nB2UyXIkNwxEkVhIVle3NBNz8G/6Yv+zL3ZYltRVRSwONq8MAMnES+KPP38Pn+4ZEZlelUlZRAwGMxMTAcwCEWYRmABckf485jxDIyqykiIrImakZ84kqledMIOVWU2FSKiUElRrSsWapBHu6ZEe5R7nnJcfh8+MTACigIg1611VVbixNkBQlYUoaMbM8nyNDb+u4zg+z/M5I6peGoRhpjakNbPe+ujcjCFUkgnNvCIz032er+Lj+XU9j2VDrQMmCGK9Qc/WtW9NNtVu1negqWdmuMecx/n9cXx9Xs8jzhRKIWZIqwTIKZMnSZRdrp9lGtuj395MMygzwud5XN/ffpwxg4pAEJGmY1/+YSIvIgeSUeu+CAfpTrrcXMZPP/w6Y86KYry2pmK3+/vtfhubW308j+d5+pwzHRWtxAimxKvbnDWviFiuFoHFVFs3fQP91vHz1+3W5l//xt//5EeIg0uatdHGjRlUy71ckxO5lDOLalPtoJh5nfBQghZhQYJ0Baz1PrauBCzwpkdQFrCgUWPtO1ujms9zXv99HpnX1+d1nukng9c+x73ve9cqXhwFqphALKTGveUoFywIPr7oOQ8m+nY6LkxqQ0bfbvt7f7urLj6IK7lIoJBGoiiKeaVfyHiBdk5VDUjEQlCs970/hnZhXSERhShrrGgYhIuumF61+iIIlKW5EsVi1ka/jXGzYWAqBXXuuw3YpPBcz3iRO1c8QCt/sgTSRjKsb9vb/fG+3e/NoJWsyjbGNu/wIP/2jKTKtQLOFTUWkIBV7W59G4/x9nP/8Wh7V2EIoCpCOgJKYmgR52uTPj1WKyJ9Ffcx9v7W9/f+433cu3ZjXW6TqjWmEMiwtj0onGLWPK5rZkQWVFRat9uu9033m94bq0DWV7L0qYjKSlia8hhS4Chc030JCCoRk258M5iyMa8PYYWagWLK/wGrt+gGtUmQKgAAAABJRU5ErkJggg==",
+  "imageHeight": 19,
+  "imageWidth": 21
+}

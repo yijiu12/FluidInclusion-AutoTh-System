@@ -1,0 +1,134 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          4.7500000000000036,
+          8.95
+        ],
+        [
+          3.1500000000000057,
+          10.649999999999999
+        ],
+        [
+          2.850000000000005,
+          12.95
+        ],
+        [
+          2.5500000000000043,
+          14.55
+        ],
+        [
+          5.150000000000006,
+          15.849999999999998
+        ],
+        [
+          7.950000000000006,
+          15.149999999999995
+        ],
+        [
+          10.350000000000005,
+          14.649999999999995
+        ],
+        [
+          12.550000000000008,
+          14.849999999999998
+        ],
+        [
+          13.750000000000004,
+          12.649999999999999
+        ],
+        [
+          13.950000000000006,
+          10.749999999999996
+        ],
+        [
+          15.250000000000004,
+          6.7499999999999964
+        ],
+        [
+          15.150000000000002,
+          5.349999999999998
+        ],
+        [
+          13.350000000000005,
+          4.149999999999999
+        ],
+        [
+          11.450000000000006,
+          3.7499999999999964
+        ],
+        [
+          7.7500000000000036,
+          4.549999999999997
+        ],
+        [
+          4.850000000000005,
+          5.849999999999998
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          6.149999999999995,
+          9.950000000000006
+        ],
+        [
+          7.049999999999994,
+          10.450000000000006
+        ],
+        [
+          8.849999999999994,
+          9.950000000000006
+        ],
+        [
+          9.549999999999994,
+          8.850000000000009
+        ],
+        [
+          9.649999999999995,
+          7.450000000000006
+        ],
+        [
+          8.849999999999994,
+          6.8500000000000085
+        ],
+        [
+          7.949999999999992,
+          6.3500000000000085
+        ],
+        [
+          6.349999999999994,
+          6.550000000000008
+        ],
+        [
+          5.549999999999994,
+          7.150000000000009
+        ],
+        [
+          5.149999999999995,
+          8.750000000000007
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x-1000_y2400_z800_0.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABIAAAARCAIAAABfOGuuAAACd0lEQVR4nBWTzY7cOAyESYn6sd3T6EEGyCnv/wB7W2AfZxdIZpJ2u21LlERy0ac6FQpV+Ar/+fuv2pn5aO3kehz7cZ6lnPUs5Wi9sjTuLNKLyBAzU9UxhAAUTEA7SFNpvdfaSm21cm3cO2sbCmreIThvYIgI4EjVTIdpHf2odT+Ox74d+6Mca2UerWs3h56QIpJDh86p80ACzYBl7KWsz/XP/b9tXct25+cx2jBRVQTnvKcU5xhyCJnIOQKppqX34zy2x+fj6+e+3nmvowoogCGYGph5eamYN3RuIgLlMR7lvG+/H+uvY/3NW3l5BJyLRIlcEOhqw8ZQKOqjB4wkejJv29f2+9/j66esHBtmJUc+pUuYP3DO3J61Psd5kEJQCBgjDam1Hvu9rGvfqjbLPqXlRpeRffDXpO+T/NpJQTsFw0CBUgw05OST9/vYi7KigfOR0uXyhmiHkHXbh1ZVca8hYgwpxhxoNC4bPx5Wu1d0yVMwF/dBERRHZX7usjM0I6Acp5yXOGVPnfu5jZ1RfMzXPIfg0UUnhmo0RhtVTNAhBB/SNKdlDtl7erFzCA9HU8rf3j9uAbvqeTKeUmUMEERA532ilPKSpkzJOxrdOoN4ygu9f/jvV4XCz9HKPvrQbmbgPUYMc1rSNPscITpPCoSeyAs4a5VXkf5s58EHD1UTAdWAmCnleYmX7DMCApKLU7rl5evkzv1zbKAs0roMM0AA8A4T5Ty/pbcLLcElRFSkNH9cf4Rvum2ftdZxsr4wIqVXIwQXMMx5TtdbvF3jRM6bM3MU6HKZ3fcfYbnVsrdaXrcSfUUhoIHHEPMU5uRj8A49onOG/wPDyN8a/SEGfwAAAABJRU5ErkJggg==",
+  "imageHeight": 17,
+  "imageWidth": 18
+}

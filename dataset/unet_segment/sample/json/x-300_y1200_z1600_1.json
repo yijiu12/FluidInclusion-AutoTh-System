@@ -1,0 +1,78 @@
+{
+  "version": "5.10.1",
+  "flags": {},
+  "shapes": [
+    {
+      "label": "liquid",
+      "points": [
+        [
+          5.800000000000001,
+          6.350000000000001
+        ],
+        [
+          7.849999999999994,
+          4.599999999999994
+        ],
+        [
+          11.3,
+          3.5500000000000007
+        ],
+        [
+          14.399999999999999,
+          2.3500000000000014
+        ],
+        [
+          17.0,
+          3.0500000000000007
+        ],
+        [
+          17.0,
+          4.350000000000001
+        ],
+        [
+          17.0,
+          6.2500000000000036
+        ],
+        [
+          12.25,
+          8.099999999999994
+        ],
+        [
+          8.450000000000003,
+          8.599999999999994
+        ],
+        [
+          5.800000000000001,
+          7.600000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "polygon",
+      "flags": {},
+      "mask": null
+    },
+    {
+      "label": "gas",
+      "points": [
+        [
+          11.0,
+          6.150000000000002
+        ],
+        [
+          12.899999999999999,
+          6.850000000000001
+        ]
+      ],
+      "group_id": null,
+      "description": "",
+      "shape_type": "circle",
+      "flags": {},
+      "mask": null
+    }
+  ],
+  "imagePath": "..\\images\\x-300_y1200_z1600_1.png",
+  "imageData": "iVBORw0KGgoAAAANSUhEUgAAABMAAAAKCAIAAADZ6/LIAAABkElEQVR4nBWSyW7cMBBEq5tNUtJoZCHIIIg/O/6+nHKIAyRjzyJR4tIdqM61AA9Fb28/oGqmVtXUzDEcERNpM6umaqRqzQ4HjD0xw6AN4gAwoFBHlYzQyICmzWqpKZeSc9tKzaXVwmreiXdRQvDCBCIC2KAEa5ahZa9537f18dieaV9bSbVVs8i0OnKeX07Sv4gjB2hjNc1AUlvWZbnf0uMj3a4lJ26tIzkPZ+mixTmXYvmpm6qAGATSSsgN63O5/X1fnh9buu/7SqYBnoPvXl/D/LW5hPePpsRkTuBAULJqtOX8XK732++9bFZyaMb+QsTJki6b56vKreXkyE5dH8U5mCqOwZSWvPwJiU/hO0J72D2HrTXG+tl+3qP4MHRjnIZhHqZvvZAdAuwo2EyLsOv72aSu+z+6PnnLQtzF0A1TP1+m85d+GEPfBYERjIFIFIPs/ZhOn0v8RcLCNJ4GH1/GMJ/6OQ5nP51DHyQeVEn0IOSJyYfLeJlozL6YFpg5EZ0E3nkffHRynICODMAK+w/h7QTE0bJ8xAAAAABJRU5ErkJggg==",
+  "imageHeight": 10,
+  "imageWidth": 19
+}
