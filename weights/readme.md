@@ -1,5 +1,10 @@
 # Model Weights
 
+> `unetpp_res34_best.pth` is 99.7 MiB, which exceeds the practical size of a Git object,
+> so it is **not** committed to the source tree. Download it from the
+> [`v1.0.0` release](https://github.com/yijiu12/FluidInclusion-AutoTh-System/releases/tag/v1.0.0)
+> and place it in this directory next to `yolo26n_best.pt`.
+
 ## YOLO26n - Fluid Inclusion Detection
 - **File**: `yolo26n_best.pt`
 - **Test metrics**: precision = 78.56%, recall = 72.37%, mAP@0.5 = 82.35%, mAP@0.5:0.95 = 56.34%

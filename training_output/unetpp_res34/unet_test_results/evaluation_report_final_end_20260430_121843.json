@@ -1,0 +1,18 @@
+{
+    "model_path": "C:\\Users\\86135\\Desktop\\auto\\yyfg\\results\\yyfg_end\\best_model.pth",
+    "eval_time": "20260430_121843",
+    "metrics": {
+        "pixel_accuracy": 0.9379,
+        "mIoU": 0.8391,
+        "mDice": 0.9109,
+        "class_IoU": {
+            "class_0": 0.9338,
+            "class_1": 0.8228,
+            "class_2": 0.7606
+        }
+    },
+    "cpu_speed": {
+        "avg_time_ms": 142.49,
+        "fps": 7.02
+    }
+}

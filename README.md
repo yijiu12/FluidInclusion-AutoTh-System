@@ -105,6 +105,7 @@ without re-scanning a slide.
 ├── weights/                   # Trained model weights (YOLO26n, U-Net++/ResNet34)
 ├── dataset/                   # Demonstration subset of the annotated dataset
 ├── experiments/               # Numerical results behind the figures of the paper
+├── training_output/           # Training logs, per-epoch metrics, curves and checkpoints
 ├── docs/                      # Documentation
 ├── demo/                      # Quick test scripts
 ├── config.py                  # Global configuration
@@ -115,17 +116,25 @@ without re-scanning a slide.
 ```
 
 ### Not included in this repository
-- `training_output/` — per-epoch training logs, curves and duplicated checkpoints.
 - `docs/vendor_sdk/` — manufacturer SDK bundles; redistributed by their vendors under
   their own terms.
-- `dataset/` — only a demonstration subset is included here. The complete annotated
-  dataset (4,362 detection annotations and 14,057 segmentation masks) is archived on Zenodo.
+- The **complete** `dataset/` — only a demonstration subset is included here. The full
+  annotated dataset (4,362 detection annotations and 14,057 segmentation masks) is
+  archived on Zenodo.
+- Two training artefacts are byte-identical duplicates of the weights shipped in
+  `weights/` and are therefore not stored twice:
+  `training_output/unetpp_res34/unet_train_results/best_model.pth` and
+  `training_output/yolo26n/yolo_train_results/weights/best.pt`.
 
 ## Data Availability
 - **Complete annotated dataset** (4,362 detection annotations and 14,057 segmentation
   masks) and the **raw experimental data** are archived on Zenodo: to be assigned on Zenodo record publication
-- **Trained model weights** are included in this repository under `weights/`
-  (`yolo26n_best.pt`, `unetpp_res34_best.pth`), so the pipeline can be run without downloading the dataset.
+- **Trained model weights** — `yolo26n_best.pt` ships with this repository under `weights/`.
+  `unetpp_res34_best.pth` (99.7 MiB) exceeds the practical size of a Git object and is
+  attached to the [`v1.0.0` release](https://github.com/yijiu12/FluidInclusion-AutoTh-System/releases/tag/v1.0.0);
+  download it into `weights/` to run the pipeline without downloading the dataset.
+- The full **training artefacts** (per-epoch metrics, curves, hyperparameters, evaluation
+  reports and checkpoints) are included in `training_output/`.
 - A **demonstration subset** of the dataset and all **numerical results** behind the
   figures are included in `dataset/` and `experiments/`.
 

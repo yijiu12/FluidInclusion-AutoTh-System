@@ -29,17 +29,19 @@
 ## Data Availability
 - **Complete dataset**: 4,362 detection annotations and 14,057 segmentation masks. Archived on Zenodo with a permanent DOI: to be assigned on Zenodo record publication
 - **Sample dataset**: a demonstration subset is included in the `dataset/` folder for quick testing.
-- **Model weights**: the best-performing YOLO26n and U-Net++ weights are provided in the `weights/` folder of the source-code repository.
+- **Model weights**: the best-performing YOLO26n weight is provided in the `weights/` folder of the source-code repository; the U-Net++ weight is attached to the repository's `v1.0.0` release.
 - **Raw experimental data**: full-resolution image sequences and measurement records (global scan, batch run, repeatability test) are archived on Zenodo alongside the dataset.
 
 ## Repository Contents
 The source-code repository contains the complete runtime code, the trained model weights,
-a demonstration subset of the dataset and all numerical results behind the figures of the
-paper. The following are deliberately not included:
+a demonstration subset of the dataset, the training artefacts and all numerical results
+behind the figures of the paper. The following are deliberately not included:
 
-- `training_output/` — per-epoch training logs, curves and duplicated checkpoints.
 - `docs/vendor_sdk/` — third-party SDK bundles redistributed by their vendors under their
   own terms.
+- Two files under `training_output/` are byte-identical duplicates of the weights shipped
+  in `weights/` (`unetpp_res34/unet_train_results/best_model.pth` and
+  `yolo26n/yolo_train_results/weights/best.pt`) and are therefore not stored twice.
 
 ## Repository Structure
 ```
@@ -50,6 +52,7 @@ paper. The following are deliberately not included:
 ├── src/utils/             # Common utilities
 ├── csharp_ipc_builder/    # C# project for LinkamIpc.dll compilation
 ├── dataset/               # Sample datasets and documentation
+├── training_output/       # Training logs, metrics, curves and checkpoints
 ├── weights/               # Trained model weights
 ├── docs/                  # Documentation and vendor SDKs
 └── main.py                # Main program entry

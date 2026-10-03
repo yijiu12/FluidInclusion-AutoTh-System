@@ -34,10 +34,13 @@ csharp_ipc_builder/obj/
 # NOT distributed with the source-code repository
 # ---------------------------------------------------------------------------
 
-# Training artefacts (logs, per-epoch checkpoints, duplicated weights).
-# The trained model weights actually used for the paper are kept in weights/.
-# Full training history is archived with the dataset on Zenodo.
-training_output/
+# Training artefacts are distributed with the repository (logs, per-epoch metrics,
+# curves, checkpoints).  Two of them are byte-identical duplicates of the weights
+# shipped in weights/ and are therefore not stored twice.
+training_output/unetpp_res34/unet_train_results/best_model.pth
+training_output/yolo26n/yolo_train_results/weights/best.pt
+# ... but the training log itself is evidence and must be kept.
+!training_output/**/*.log
 
 # Third-party vendor SDKs and manuals (DTStageDriver, Linkam IPC SDK).
 # These are redistributed by their manufacturers under their own terms and are
@@ -46,3 +49,7 @@ docs/vendor_sdk/
 
 # Internal note-keeping file listing documentation placeholders
 缺失信息.csv
+
+# 99.7 MiB — too large for a Git object; attached to the v1.0.0 release instead.
+# Download it into weights/ from the release page.
+weights/unetpp_res34_best.pth
