@@ -27,7 +27,7 @@
 - DTStageDriver.dll (provided by the Z-axis motor manufacturer; not redistributed in this repository)
 
 ## Data Availability
-- **Complete dataset**: 4,362 detection annotations and 14,057 segmentation masks. Archived on Zenodo with a permanent DOI: to be assigned on Zenodo record publication
+- **Complete dataset**: 4,362 detection annotations and 14,057 segmentation masks. Archived on Zenodo with a permanent DOI: https://doi.org/10.5281/zenodo.23114354
 - **Sample dataset**: a demonstration subset is included in the `dataset/` folder for quick testing.
 - **Model weights**: the best-performing YOLO26n weight is provided in the `weights/` folder of the source-code repository; the U-Net++ weight is attached to the repository's `v1.0.0` release.
 - **Raw experimental data**: full-resolution image sequences and measurement records (global scan, batch run, repeatability test) are archived on Zenodo alongside the dataset.

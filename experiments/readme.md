@@ -10,5 +10,5 @@ Experimental data corresponding to the paper results.
 ## Note
 1. All numerical CSV/JSON results and summary plots are included for verification
 2. Raw full-resolution image sequences and large video files (e.g. 1.4GB repeatability test raw data) are not included in this repository due to file size
-3. Full raw experimental data is archived on Zenodo: to be assigned on Zenodo record publication
+3. Full raw experimental data is archived on Zenodo: https://doi.org/10.5281/zenodo.23114354
 4. Analysis scripts are located in `src/measurement/` folder

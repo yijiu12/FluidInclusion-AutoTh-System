@@ -128,7 +128,7 @@ without re-scanning a slide.
 
 ## Data Availability
 - **Complete annotated dataset** (4,362 detection annotations and 14,057 segmentation
-  masks) and the **raw experimental data** are archived on Zenodo: to be assigned on Zenodo record publication
+  masks) and the **raw experimental data** are archived on Zenodo: https://doi.org/10.5281/zenodo.23114354
 - **Trained model weights** — `yolo26n_best.pt` ships with this repository under `weights/`.
   `unetpp_res34_best.pth` (99.7 MiB) exceeds the practical size of a Git object and is
   attached to the [`v1.0.0` release](https://github.com/yijiu12/FluidInclusion-AutoTh-System/releases/tag/v1.0.0);

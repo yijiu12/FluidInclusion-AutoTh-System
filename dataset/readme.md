@@ -9,4 +9,4 @@ Fluid inclusion datasets for detection and segmentation models.
 ## Note
 Only a demonstration subset is included in this repository for quick testing.
 The complete dataset (4,362 detection annotations and 14,057 segmentation masks) is
-archived on Zenodo with a permanent DOI: to be assigned on Zenodo record publication
+archived on Zenodo with a permanent DOI: https://doi.org/10.5281/zenodo.23114354
